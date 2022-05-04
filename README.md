@@ -8,15 +8,15 @@
 - ☝️ My goal this year is to collaborate more tp open source projects, giving a constant time each day.
 
 ### Top Skills:
-<a href="#"><img width="60" src="https://icon-library.com/images/official-icon/official-icon-9.jpg" /></a>
-<a href="#"><img width="60" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" /></a>
-<a href="#"><img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" /></a>
-<a href="#"><img width="60" src="https://img.icons8.com/color/2x/azure-1.png" /></a>
-<a href="#"><img width="60" src="https://img.icons8.com/color/2x/azure-service-bus.png" /></a>
-<a href="#"><img width="60" src="https://symbols.getvecta.com/stencil_28/38_functions.09b75fbe38.svg" /></a>
-<a href="#"><img width="60" src="https://sqlplayer.net/wp-content/uploads/2020/01/azure-cosmos-db.png" /></a>
-<a href="#"><img width="60" src="https://img.icons8.com/color/2x/docker.png" /></a>
-<a href="#"><img width="60" src="https://img.icons8.com/color/2x/kubernetes.png" /></a>
+<a href="#"><img width="60" src="./img/csharp.jfif" /></a>
+<a href="#"><img width="60" src="./img/mssql.png" /></a>
+<a href="#"><img width="60" src="./img/dotnet.png" /></a>
+<a href="#"><img width="60" src="./img/azure.png" /></a>
+<a href="#"><img width="60" src="./img/servicebus.png" /></a>
+<a href="#"><img width="60" src="./img/functions.svg" /></a>
+<a href="#"><img width="60" src="./img/cosmosdb.png" /></a>
+<a href="#"><img width="60" src="./img/docker.png" /></a>
+<a href="#"><img width="60" src="./img/kubernetes.png" /></a>
 
 ### Follow me in the below platforms:
 <a href="https://twitter.com/EmadBushofa"><img width="60" src="https://img.icons8.com/color/2x/twitter-squared.png" /></a>
