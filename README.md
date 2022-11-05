@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EmadAbushofa"><img src="./bar.jpeg" /></a></p>
+<p align="center"><a href="https://github.com/EmadAbushofa"><img src="./img/bar.jpeg" /></a></p>
 
 <br />
 
