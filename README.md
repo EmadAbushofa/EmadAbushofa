@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/EmadAbushofa"><img src="https://media-exp1.licdn.com/dms/image/C5616AQH_8jM3ReDi2A/profile-displaybackgroundimage-shrink_350_1400/0/1650934809538?e=1657152000&v=beta&t=CJeisGAy6H5rmB9GMyFPOYWZouM3L-35B5DN-8Fo-7Q" /></a></p>
+<p align="center"><a href="https://github.com/EmadAbushofa"><img src="./bar.jpeg" /></a></p>
 
 <br />
 
